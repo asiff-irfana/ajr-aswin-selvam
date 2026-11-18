@@ -1,11 +1,9 @@
 ASWIN SELVAM — AJR MOTION STUDIOS PORTFOLIO
 
-Latest cleanup:
-- Corrected spacing and responsive layout consistency.
-- Polished spelling, grammar and awkward résumé-derived wording.
-- Improved paragraph line-height and card spacing.
-- Improved mobile text wrapping and overflow handling.
-- Removed the leftover Education fact.
-- Retained Copper Gold theme, loading page, profile images and animations.
+Career timeline update:
+- Current role: Technical Manager, TenIT Technology.
+- Clickable company website: https://tenittechnology.com/
+- Added role summary and key focus areas based on the company's published service areas.
+- Previous role at I AM IT Technologies LLC updated to 2023–2026.
 
 Open index.html in a modern browser. Keep the assets folder beside index.html.
